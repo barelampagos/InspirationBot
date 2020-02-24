@@ -1,5 +1,5 @@
 # InspirationBot
-A Twitter Bot that posts inspirational quotes. Currently live: [@inspirationqtz](https://twitter.com/inspirationqtz).
+A Twitter Bot that posts inspirational quotes. Currently inactive: [@inspirationqtz](https://twitter.com/inspirationqtz).
 
 ##### quoteGrabberBot.py:
 - Uses [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) to scrape HTML from goodreads.com
